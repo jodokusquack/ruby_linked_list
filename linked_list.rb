@@ -200,7 +200,7 @@ puts ll.to_s
 
 puts "Removing at Index -2"
 puts ll.remove_at(-2).value
-puts ll.to_s 
+puts ll.to_s
 
 puts "Removing at Index 0"
 puts ll.remove_at(0).value
